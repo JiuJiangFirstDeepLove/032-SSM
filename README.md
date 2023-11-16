@@ -6,7 +6,7 @@
 
 ### 技术栈
 
-Springboot mybatisplus vue
+ssm mybatisplus jsp
 
 ## 数据库
 
